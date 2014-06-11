@@ -1,0 +1,214 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/build_tipo"
+    tools:context=".Build" >
+
+    <TextView
+        android:id="@+id/base"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/button_tipo"
+        android:text="BASE"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/shipyard"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="135dp"
+        android:background="@drawable/button_tipo"
+        android:text="SHIPYARD"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/Solar"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="190dp"
+        android:background="@drawable/button_tipo"
+        android:text="SOLAR"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/nuclear"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="245dp"
+        android:background="@drawable/button_tipo"
+        android:text="NUCLEAR"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/titanium"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/button_tipo"
+        android:text="TITANIUM"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/aluminium"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="355dp"
+        android:background="@drawable/button_tipo"
+        android:text="ALUMINIUM"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+    <Button
+        android:id="@+id/baseupgrade"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/button_tipo"
+        android:text="UPGRADE"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <Button
+        android:id="@+id/shipyardupgrade"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="135dp"
+        android:background="@drawable/button_tipo"
+        android:text="UPGRADE"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <Button
+        android:id="@+id/Solarupgrade"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="190dp"
+        android:background="@drawable/button_tipo"
+        android:text="UPGRADE"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <Button
+        android:id="@+id/nuclearupgrade"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="245dp"
+        android:background="@drawable/button_tipo"
+        android:text="UPGRADE"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <Button
+        android:id="@+id/titaniumupgrade"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/button_tipo"
+        android:text="UPGRADE"
+        android:gravity="center"
+        android:onClick="titan_upgrade"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <Button
+        android:id="@+id/aluminiumupgrade"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="false"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="355dp"
+        android:background="@drawable/button_tipo"
+        android:text="UPGRADE"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/lvl1"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="90dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_tipo"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/lvl2"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="145dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_tipo"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/lvl3"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_tipo"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/lvl4"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="255dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_tipo"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/lvl5"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="310dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_tipo"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/lvl6"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="365dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_tipo"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>

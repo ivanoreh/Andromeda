@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Andromeda</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">PLAY</string>
+
+    <integer name="gems">50</integer>
+    <integer name="diamonds">30</integer>
+    <integer name="deuterium">2</integer>
+
+    <string name="title_activity_start_to_play">Start_to_play</string>
+    <string name="title_activity_build">Build</string>
+    <string name="title_activity_rudnik_titana">Rudnik_titana</string>
+
+</resources>

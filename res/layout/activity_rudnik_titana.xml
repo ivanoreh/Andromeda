@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/build_tipo"
+    tools:context=".Rudnik_titana" >
+
+    <TextView
+        android:id="@+id/titan_descriprion"
+        android:layout_width="240dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:text="Titanium is one of the most important metals! Use it wisely!\nUpgrading this factory will cause you increase your titanium increase per minute."
+        android:textColor="#ffffff"
+     	android:textSize="10dp"
+        android:gravity="center"
+        android:background="@drawable/content_bknd_tipo"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:id="@+id/titan_cost"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="230dp"
+        android:background="@drawable/content_bknd_tipo"
+        android:text="Cost:"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/titan_your"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="230dp"
+        android:background="@drawable/content_bknd_tipo"
+        android:text="Have:"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    <TextView
+        android:id="@+id/titan_bonus"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/content_bknd_tipo"
+        android:text="Bonus:"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+     <Button
+        android:id="@+id/titan_confirm"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/content_bknd_tipo"
+        android:text="UPGRADE!"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+
+</RelativeLayout>

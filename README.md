@@ -12,6 +12,22 @@ Developed for the purpose of learning.
 Game isn't finished because I learned 
 what I have planed, but it should be fully functional.
 
-Screenshots soon..
-
-<a href='http://monogame.net/' target='_blank'><img src='https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10429022_10203072753637610_1326256814_n.jpg?oh=081f0d657fb1fe4782c3207ff650bc06&oe=539AB5DA&__gda__=1402658635_3840b129a34a15739045e85aadbfdcf3' width=153 height=256></a>
+Screenshots :
+<p>
+<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCMHNPMW5UWnZvc00/edit?usp=sharing' ></a>
+</p>
+<p>
+<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCN2F6UTRnZHdNaUU/edit?usp=sharing' ></a>
+</p>
+<p>
+<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCNk90aG1FVS1WWE0/edit?usp=sharing' ></a>
+</p>
+<p>
+<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCREN3dXdsc3llNlk/edit?usp=sharing' ></a>
+</p>
+<p>
+<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCUy0yeGFRcFBLVW8/edit?usp=sharing' ></a>
+</p>
+<p>
+<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCWUhiWkUyR0dqOWs/edit?usp=sharing' ></a>
+</p>

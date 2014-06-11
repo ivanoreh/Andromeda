@@ -14,7 +14,7 @@ what I have planed, but it should be fully functional.
 
 Screenshots :
 
-![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCMHNPMW5UWnZvc00/edit?usp=sharing) 
+![Picture](https://raw.githubusercontent.com/ivanoreh456/Andromeda/master/screenshots/Screenshot_2014-06-11-17-45-53.png) 
 ![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCN2F6UTRnZHdNaUU/edit?usp=sharing) 
 ![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCNk90aG1FVS1WWE0/edit?usp=sharing) 
 ![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCREN3dXdsc3llNlk/edit?usp=sharing) 

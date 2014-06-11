@@ -20,3 +20,6 @@ Screenshots :
 ![Picture](https://raw.githubusercontent.com/ivanoreh456/Andromeda/master/screenshots/Screenshot_2014-06-11-17-46-34.png) 
 ![Picture](https://raw.githubusercontent.com/ivanoreh456/Andromeda/master/screenshots/Screenshot_2014-06-11-17-46-47.png) 
 
+/\ 
+|  enough*
+|

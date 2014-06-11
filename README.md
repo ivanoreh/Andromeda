@@ -14,7 +14,7 @@ what I have planed, but it should be fully functional.
 
 Screenshots :
 <p>
-<a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCMHNPMW5UWnZvc00/edit?usp=sharing' ></a>
+<img src='https://drive.google.com/file/d/0B-9zab6ZByVCMHNPMW5UWnZvc00/edit?usp=sharing' >
 </p>
 <p>
 <a href='http://monogame.net/' target='_blank'><img src='https://drive.google.com/file/d/0B-9zab6ZByVCN2F6UTRnZHdNaUU/edit?usp=sharing' ></a>

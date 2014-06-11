@@ -14,9 +14,5 @@ what I have planed, but it should be fully functional.
 
 Screenshots :
 
-![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCMHNPMW5UWnZvc00/edit?usp=sharing) 
-![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCN2F6UTRnZHdNaUU/edit?usp=sharing) 
-![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCNk90aG1FVS1WWE0/edit?usp=sharing) 
-![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCREN3dXdsc3llNlk/edit?usp=sharing) 
-![Picture](https://drive.google.com/file/d/0B-9zab6ZByVCUy0yeGFRcFBLVW8/edit?usp=sharing) 
+
 ![Picture](https://docs.google.com/file/d/0B-9zab6ZByVCREN3dXdsc3llNlk/edit)

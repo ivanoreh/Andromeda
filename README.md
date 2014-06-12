@@ -5,6 +5,7 @@ RTS Android game.
 
 Deploy a new space civilisation, mine resources and build your army. 
 Upgrade your mines and knowledge -> grow faster.
+Resources are increasing by their increase rate every minute, even if game is off.
 
 Minimalisation rule applied. 
 

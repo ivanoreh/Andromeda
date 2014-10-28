@@ -10,8 +10,6 @@ Resources are increasing by their increase rate every minute, even if game is of
 Minimalisation rule applied. 
 
 Developed for the purpose of learning. 
-Game isn't finished because I learned 
-what I have planed, but it should be fully functional.
 
 Screenshots :
 
